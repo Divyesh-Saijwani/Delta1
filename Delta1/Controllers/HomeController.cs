@@ -30,5 +30,10 @@ namespace Delta1.Controllers
         {
             return View();
         }
+        public ActionResult Registeration()
+        {
+            return View();
+        }
+        
     }
 }
