@@ -30,7 +30,7 @@ namespace Delta1.Controllers
         {
             return View();
         }
-        public ActionResult Registeration()
+        public ActionResult Registration()
         {
             return View();
         }
