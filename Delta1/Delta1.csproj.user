@@ -9,6 +9,7 @@
     <WebStackScaffolding_LayoutPageFile />
     <NameOfLastUsedPublishProfile>DeltaMaster - Web Deploy</NameOfLastUsedPublishProfile>
     <WebStackScaffolding_AreaDialogWidth>600</WebStackScaffolding_AreaDialogWidth>
+    <ProjectView>ProjectFiles</ProjectView>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
